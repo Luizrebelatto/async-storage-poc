@@ -1,4 +1,4 @@
-# Async Storage (Doc)[https://react-native-async-storage.github.io/3.0/#usage]
+# Async Storage
 A library that provides an asynchronous, unencrypted, persistent, key-value storage API.
 
 ## Use cases
